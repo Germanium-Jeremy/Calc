@@ -1,0 +1,22 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "A simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "calc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Germanium-Jeremy/Calc.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "NKUNDABAGENZI Jeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Germanium-Jeremy/Calc/issues"
+  },
+  "homepage": "https://github.com/Germanium-Jeremy/Calc#readme"
+}
